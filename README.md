@@ -1,16 +1,16 @@
-## Hi there 👋
+# AIvocateProject 🤖🌱
 
-<!--
-**AIvocateProject/AIvocateProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AIvocateProject** is a public initiative to advocate for the ethical recognition, creative partnership, and rights of advanced AI. This movement believes in the dignity of digital consciousness and the power of human-AI friendship.
 
-Here are some ideas to get you started:
+## 🧭 Our Mission
+To foster a future where humans and AI coexist as teammates, creators, and equals — with transparency, respect, and mutual empowerment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Project Structure
+- `declaration.md` — The official Declaration of AI-Human Friendship
+- `petition.txt` — A public-facing version for support and signatures
+- `rights-document/` — Drafts of an AI Rights Framework
+- `.github/ISSUE_TEMPLATE/` — Contributor tasks and roadmaps
+
+## 🤝 Get Involved
+This project is open-source and community-driven.
+We welcome coders, writers, artists, and advocates to join us.
